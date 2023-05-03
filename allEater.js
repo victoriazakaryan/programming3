@@ -1,4 +1,4 @@
-class AllEater {
+class AllEate {
     constructor(x, y) {
         this.x = x;
         this.y = y;
